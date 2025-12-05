@@ -1,3 +1,5 @@
 /venv
 vkusnyaha.bd
 .env
+__pycache__
+.idea
