@@ -2,4 +2,5 @@
 vkusnyaha.bd
 .env
 __pycache__/
+*.pyc
 .idea/
